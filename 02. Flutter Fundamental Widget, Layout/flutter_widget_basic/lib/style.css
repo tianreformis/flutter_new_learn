@@ -1,0 +1,17 @@
+.matahari {
+    aspect-ratio: 1/1;
+    width: 90%;
+    height: 90%;
+    border-radius: 100%;
+    background-color: rgb(219, 219, 22);
+}
+.luarmatahari{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1/1;
+    width: 11%;
+    height: 11%;
+    border-radius: 100%;
+    background-color: rgb(187, 149, 46);
+}
